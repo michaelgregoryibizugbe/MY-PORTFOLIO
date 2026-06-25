@@ -11,18 +11,17 @@ READ THE README.md
   
   [![Email Badge]
   
-  (https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mikegregibi@gmail.com)
 
   <p>
-    
-   [LinkedIn Badge]
 
   <a href="https://www.linkedin.com/in/michael-ibizugbe-705b71387/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
   </a>
-  
-  <img src="https://img.shields.io/badge/Metasploit-Red?style=for-the-badge&logo=metasploit&logoColor=white" />
 
+  <a href="mailto:mikegregibi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  
 </p>
   
 </div>
