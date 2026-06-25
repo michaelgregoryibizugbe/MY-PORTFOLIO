@@ -7,8 +7,24 @@ READ THE README.md
 </div>
 
 <div id="badges" align="center">
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-ibizugbe-705b71387/)
-  [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mikegregibi@gmail.com)
+ 
+  
+  [![Email Badge]
+  
+  (https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mikegregibi@gmail.com)
+
+  <p>
+    
+   [LinkedIn Badge]
+
+  <a href="https://www.linkedin.com/in/michael-ibizugbe-705b71387/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  
+  <img src="https://img.shields.io/badge/Metasploit-Red?style=for-the-badge&logo=metasploit&logoColor=white" />
+
+</p>
+  
 </div>
 
 # Hi, I'm Michael Gregory Ibizugbe 👋
