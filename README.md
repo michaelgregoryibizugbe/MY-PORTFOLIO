@@ -7,7 +7,7 @@ READ THE README.md
 </div>
 
 <div id="badges" align="center">
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL])
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-ibizugbe-705b71387/)
   [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mikegregibi@gmail.com)
 </div>
 
