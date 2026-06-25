@@ -9,8 +9,6 @@ READ THE README.md
 <div id="badges" align="center">
  
   
-  [![Email Badge]
-  
 
   <p>
 
