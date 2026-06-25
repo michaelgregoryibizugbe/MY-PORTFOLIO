@@ -3,7 +3,7 @@ READ THE README.md
 
 
 <div id="header" align="center">
-  <img src="[LINK_TO_A_PROFESSIONAL_PROFILE_PHOTO_OR_CYBER_SECURITY_ICON]" width="150" />
+  <img src="https://avatars.githubusercontent.com/u/235210097?v=4" width="150" />
 </div>
 
 <div id="badges" align="center">
